@@ -6,5 +6,5 @@ def hello():
     return "party tiem!"
 
 @app.route("/")
-def hello():
+def hello_dev():
     return "Hello, World!"
