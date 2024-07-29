@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'bobcybertech'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3B62882D5FD94017B5196E50CB0A2783 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0D9B5BF005E640C7893B3FDEAF464FCD }}
